@@ -1,16 +1,15 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%2C%20CuongKenn!&fontSize=70" alt="Header Wave" />
+  <img src="https://img.shields.io/badge/Hello%2C%20CuongKenn-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Building+Amazing+Projects;Full-Stack+Developer;Welcome+to+my+Profile" alt="Typing SVG" />
-  </a>
+  <h1>🌌 Welcome to my universe!</h1>
+  <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
   
   <br>
-
   <p>
     <img src="https://komarev.com/ghpvc/?username=CuongKenn&color=F700FF" alt="Profile Views" />
   </p>
+  
 </div>
 
 ---
