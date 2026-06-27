@@ -31,11 +31,26 @@ An IT-oriented individual with a strong interest in technology and problem-solvi
 
 ### 🚀 Featured Projects
 
-* **ICTU-Open Agri** *(Backend Developer | Oct 2025 - Nov 2025)*
-  * An application utilizing **YOLOv10** for plant disease detection. Includes comprehensive features to assist farmers in farm management.
-* **SmartLearn - English Web** *(Backend Developer | Jul 2025 - Sep 2025)*
-  * A personalized English learning platform. Integrates APIs for automated learning tasks and adapts learning paths based on user proficiency.
+* **AutoVision - Industrial Defect Detection System** *(AI Engineer | Feb 2026 - Apr 2026)*
+  * Architected a real-time computer vision pipeline to automate industrial defect detection, achieving highly accurate identification of manufacturing flaws.
+  * Deployed a scalable inference engine that optimized processing speed, significantly reducing manual inspection time and enhancing overall production efficiency.
 
+* **CustomerInsight - AI Sentiment Analysis Dashboard** *(Machine Learning Developer | Nov 2025 - Dec 2025)*
+  * Developed an advanced Natural Language Processing (NLP) module to analyze large volumes of customer feedback, automatically extracting key sentiments and emerging market trends.
+  * Seamlessly integrated the machine learning model into an enterprise dashboard, providing stakeholders with actionable, real-time insights to drive data-backed marketing strategies.
+
+* **Thai Nguyen Tea Luxury Branding Web** *(Full Stack Developer | Jun 2025 - Present)*
+  * Engineered a high-end web platform showcasing "Vua Trà" as a premium agricultural treasure. 
+  * Designed luxury cinematic visual elements and fine-art gallery aesthetics to emphasize tradition, foundational roots, and long-term sustainability.
+
+* **ICTU-Open Agri** *(Backend Developer | Oct 2025 - Nov 2025)*
+  * Developed a backend system supporting an AI-driven application for plant disease detection.
+  * Delivered comprehensive management features to assist farmers in optimizing agricultural operations and monitoring crop health.
+
+* **SmartLearn - English Web** *(Backend Developer | Jul 2025 - Sep 2025)*
+  * Built a robust backend architecture for a personalized educational platform, engineering a dynamic system that adapts learning paths based on individual user proficiency.
+  * Implemented an intelligent exam proctoring module featuring biometric facial verification and real-time engagement analysis to guarantee academic integrity during assessments.
+  * Integrated automated grading engines and generative test composition systems, significantly streamlining the evaluation pipeline and content delivery process.
 ---
 
 ### 🏆 Awards & Honors
